@@ -1,8 +1,8 @@
 /**
- * @file GetDevice.cpp
+ * @file ttyX_Getter.cpp
  * @author cyyang
  * @brief This program will scan all tty device which is using usb bus, and
- *        print their DEVNAME and several property.
+ *        then find the /dev/ttyX number
  * 
  */
 
